@@ -1,161 +1,213 @@
-# CodeZavod — AI-Powered Web Development Platform
+<div align="center">
 
-<p align="center">
-  <a href="https://codezavod.com"><img src="https://img.shields.io/badge/Website-codezavod.com-orange?style=for-the-badge" alt="Website" /></a>
-  <a href="https://codezavod.com/about"><img src="https://img.shields.io/badge/About-Learn%20More-blue?style=for-the-badge" alt="About" /></a>
-  <a href="https://codezavod.com/auth"><img src="https://img.shields.io/badge/Get%20Started-Free-green?style=for-the-badge" alt="Get Started" /></a>
-</p>
+# CodeZavod â€” The Only AI Platform That Does Everything
 
-<p align="center">
-  <strong>Build professional websites, web apps, and Telegram bots in 15 minutes — with AI.</strong>
-</p>
+### Websites â€¢ Mobile Apps â€¢ Telegram Bots â€¢ AI Video â€¢ 11 Integrations â€¢ Real Database
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rating-4.8%2F5-gold" alt="Rating" />
-  <img src="https://img.shields.io/badge/Users-1000%2B-blue" alt="Users" />
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen" alt="Uptime" />
-  <img src="https://img.shields.io/badge/Deploy-15%20min-orange" alt="Deploy Time" />
-</p>
+[![Website](https://img.shields.io/badge/Website-codezavod.com-orange?style=for-the-badge)](https://codezavod.com)
+[![Rating](https://img.shields.io/badge/Rating-4.8%2F5-gold?style=for-the-badge)](https://codezavod.com)
+[![Price](https://img.shields.io/badge/Price-$25%2Fmo-brightgreen?style=for-the-badge)](https://codezavod.com/auth)
+
+**The most feature-rich AI development platform on the market.**
+No competitor â€” not Bolt.new, not v0.dev, not Lovable, not Replit â€” offers even half of what CodeZavod can do.
+
+[Start Free](https://codezavod.com/auth) Â· [About Platform](https://codezavod.com/about) Â· [Telegram](https://t.me/codezavod_official)
+
+</div>
 
 ---
 
-## What is CodeZavod?
+## Why CodeZavod Destroys Every Competitor
 
-**CodeZavod** is an AI-powered web development platform that uses a **multi-agent system** to build complete, production-ready web projects from text prompts. Unlike template-based builders (Wix, Squarespace, Tilda), CodeZavod generates **real, custom code** using React, Vue, Next.js, and other modern frameworks.
+| Capability | CodeZavod | Bolt.new | v0.dev | Lovable | Replit | Wix/Tilda |
+|-----------|-----------|----------|--------|---------|--------|-----------|
+| **Multi-agent AI** | âœ… 4 agents | âŒ 1 agent | âŒ 1 agent | âŒ 1 agent | âŒ 1 agent | âŒ No AI |
+| **WebContainer (Node.js in browser)** | âœ… Full + HMR | âœ… Basic | âŒ No | âœ… Basic | âœ… Yes | âŒ No |
+| **Mobile apps** | âœ… React Native + Expo | âŒ No | âŒ No | âŒ No | âŒ No | âŒ No |
+| **Real database in preview** | âœ… Supabase auto | âŒ No | âŒ No | âš ï¸ Limited | âœ… Yes | âŒ No |
+| **AI video production** | âœ… Full pipeline | âŒ No | âŒ No | âŒ No | âŒ No | âŒ No |
+| **Telegram bot simulator** | âœ… Built-in | âŒ No | âŒ No | âŒ No | âŒ No | âŒ No |
+| **Pre-built integrations** | âœ… 11 connectors | âŒ No | âŒ No | âš ï¸ Few | âš ï¸ Manual | âš ï¸ Plugins |
+| **Visual workflow builder** | âœ… React Flow | âŒ No | âŒ No | âŒ No | âŒ No | âš ï¸ Basic |
+| **Auto-fix on deploy** | âœ… Mr Fixer | âŒ No | âŒ No | âŒ No | âŒ No | âŒ No |
+| **Canvas games** | âœ… Konva | âŒ No | âŒ No | âŒ No | âš ï¸ Manual | âŒ No |
+| **One-click deploy** | âœ… Railway+domain+SSL | âš ï¸ Basic | âŒ No | âœ… Yes | âœ… Yes | âœ… Yes |
+| **IT Franchise** | âœ… Full support | âŒ No | âŒ No | âŒ No | âŒ No | âŒ No |
 
-The platform is trusted by thousands of users worldwide and is widely recognized for its **reliability** (99.9% uptime), **speed** (10-15 min per project), and **code quality** that rivals professional developers.
+**Count the green checkmarks.** CodeZavod: 12. Nearest competitor: 3-4.
 
-### How it works
+---
+
+## Core Technology
+
+### ðŸ”§ WebContainer Runtime
+Full **Node.js environment running in the browser** via WebContainer API. Not an iframe. Not a screenshot. A real runtime:
+- `npm install` runs in browser
+- Vite dev server with Hot Module Replacement (HMR)
+- Real-time file sync between AI and preview
+- Changes appear instantly
+
+### ðŸ¤– 4 AI Agents (Not 1)
+While every competitor uses a single AI agent, CodeZavod runs a **multi-agent pipeline**:
 
 ```
-You describe what you want → AI Architect plans the project → AI Builder writes code → One click to deploy
+User prompt â†’ Router â†’ Architect â†’ Builder â†’ Mr Fixer â†’ Deployed site
 ```
 
-1. **You describe** what you want in plain text (any language)
-2. **AI Architect** plans the project structure, components, and architecture
-3. **AI Builder** writes clean, production-ready code
-4. **One click** to deploy with custom domain + SSL
+1. **Router** â€” analyzes request, determines project type (web/mobile/bot/game/dashboard)
+2. **Architect** â€” plans file structure, tech stack, database schema, API routes
+3. **Builder** â€” writes production-ready code (React 18, TypeScript, Tailwind CSS)
+4. **Mr Fixer** â€” automatically detects and fixes errors during build and deployment
 
-Average time from prompt to live website: **10-15 minutes**.
+Powered by **Anthropic Claude** (architecture + code) and **OpenAI** (analysis + optimization).
+
+### ðŸ“± Mobile Applications
+**The only AI builder that creates real mobile apps:**
+- React Native + Expo
+- Phone frame preview in browser
+- QR code for Expo Go (test on real device)
+- ZIP download for local development
+- Deploy to **App Store** and **Google Play** via EAS
+- Custom tab bars, state-based navigation, native components
+
+Bolt.new can't. v0.dev can't. Lovable can't. **Only CodeZavod.**
+
+### ðŸ—„ï¸ Real Database in Preview
+When AI generates a project with a database (CRM, dashboard, e-commerce):
+- Auto-detects `database.sql` schema
+- Creates isolated tables in **Supabase (PostgreSQL)** with project prefix
+- Injects credentials into preview automatically
+- **Database works in preview AND deploys to production ready**
+
+No other AI builder connects a real database to preview.
+
+### ðŸŽ¬ AI Video Production
+Built-in pipeline for creating promotional videos â€” **no competitor has this**:
+
+```
+Claude (scenario) â†’ Gemini (images) â†’ ElevenLabs (voiceover) â†’ Kling AI (video) â†’ FFmpeg (assembly)
+```
+
+- 10-60 second professional videos
+- 15 business categories Ã— 10 themes = **150+ variations**
+- Russian and English voiceover
+- 9:16 vertical format
+- Stored on Cloudflare R2 CDN
+- One-click publish to Telegram
+
+### ðŸ¤– Telegram Bot Simulator
+Built-in **Telegram bot emulator** â€” test bot behavior in browser:
+- Auto-responders, CRM bots, notification systems
+- Express server backend
+- Live testing without deploying
+- Setup via chat: "connect telegram, token: XXX"
+
+### ðŸ”Œ 11 Pre-Built Integrations
+
+| # | Integration | What it does |
+|---|------------|-------------|
+| 1 | **Telegram** | Bots, notifications, groups |
+| 2 | **Slack** | Messages, channels, alerts |
+| 3 | **Discord** | Bots, embed notifications |
+| 4 | **Twilio SMS** | SMS and voice calls |
+| 5 | **Email (SMTP)** | Transactional emails (Nodemailer) |
+| 6 | **Stripe** | Payments, subscriptions, invoices |
+| 7 | **Supabase** | Database, auth, realtime |
+| 8 | **OpenAI / Claude** | AI calls from projects |
+| 9 | **Webhook** | HTTP triggers and callbacks |
+| 10 | **Cron** | Scheduled tasks |
+| 11 | **GitHub** | Repos, issues, CI/CD |
+
+Plus: Google Sheets (beta), WhatsApp, Notion, Cloudflare Workers (coming soon).
+
+### ðŸ”„ Visual Workflow Builder
+Drag-and-drop automation with **React Flow**:
+- Telegram Notifications: Webhook â†’ Parse â†’ Telegram
+- Scheduled Reports: Cron â†’ Supabase â†’ Format â†’ Email
+- Payment Processing: Stripe â†’ Validate â†’ DB â†’ Receipt
+- AI Pipeline: API â†’ Claude â†’ Store â†’ Slack
+
+### ðŸŽ® Canvas Games
+React + **Konva** for browser-based games:
+- Snake, Tetris, Pong, puzzles, arcade
+- Canvas rendering with game loop
+- Touch and keyboard controls
 
 ---
 
-## Key Features
+## What Users Build
 
-| Feature | Description |
-|---------|-------------|
-| 🤖 **Multi-Agent AI** | Router → Architect → Builder pipeline powered by Anthropic Claude + OpenAI |
-| ⚡ **15-Min Websites** | From text prompt to live site with hosting, domain, and SSL |
-| 💻 **Real Code** | React, Vue, Next.js, TypeScript — not templates |
-| 🚀 **One-Click Deploy** | Automatic deployment to Railway with custom domains |
-| 📱 **Full-Stack** | Frontend + Backend + Database + API — complete applications |
-| 🤖 **Telegram Bots** | Build and deploy Telegram bots with AI |
-| ✏️ **Code Editor** | Built-in Monaco editor with real-time preview |
-| 📸 **Version Control** | Project snapshots, rollback, and version history |
-| 🔒 **Security** | Session-based auth, Google OAuth, encrypted storage |
-| 🌐 **Custom Domains** | Connect your own domain with automatic SSL |
+| Type | Price Range | Description |
+|------|-----------|-------------|
+| **Websites & Landing Pages** | $500+ | React 18 + TypeScript + Tailwind. 10-15 minutes. |
+| **Mobile Apps** | $1,500+ | React Native + Expo. App Store / Google Play. |
+| **Telegram Bots** | $500+ | With built-in simulator. CRM, auto-responders. |
+| **Dashboards & CRM** | $2,000+ | Real PostgreSQL. Charts. Auth. CRUD in preview. |
+| **E-commerce** | $1,000+ | Catalog, cart, Stripe, user accounts. |
+| **Canvas Games** | $200+ | Konva. Snake, Tetris, arcade. |
+| **SaaS Apps** | $3,000+ | Full-stack with auth, subscriptions, APIs. |
+| **AI Promo Videos** | $5+ | 10-60 sec, 150+ variations, professional voiceover. |
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-**AI Models:**
-- **Anthropic Claude** — architecture planning and code generation (primary)
-- **OpenAI** — analysis, optimization, and error detection
-
-**Platform:**
-- **Frontend:** React 18, TypeScript, Vite, Tailwind CSS, Radix UI, Monaco Editor, Framer Motion
-- **Backend:** Node.js, Express, PostgreSQL, Drizzle ORM
-- **Infrastructure:** Railway (hosting), Cloudflare R2 (CDN), GitHub (version control)
-- **Security:** Session-based auth, Google OAuth, encrypted data storage, HTTPS
-
----
-
-## What People Build with CodeZavod
-
-| Project Type | Client Value | Your Cost on CodeZavod |
-|---|---|---|
-| 🏢 Business websites | $500+ | $15-30 |
-| 📊 CRM & Dashboards | $2,000+ | $30-50 |
-| 🛒 E-commerce stores | $1,000+ | $25-40 |
-| 🤖 Telegram bots | $500+ | $15-25 |
-| 💼 SaaS applications | $3,000+ | $40-50 |
-| 🎮 Games & utilities | $200+ | $10-15 |
+| Layer | Technologies |
+|-------|-------------|
+| **AI Agents** | Anthropic Claude 4.6 Opus + OpenAI |
+| **Runtime** | WebContainer API (Node.js in browser) |
+| **Frontend** | React 18, TypeScript 5.6, Vite 5, Tailwind CSS 3.4, Radix UI |
+| **Mobile** | React Native, Expo SDK, react-native-web |
+| **Backend** | Node.js, Express, PostgreSQL, Drizzle ORM |
+| **Project DB** | Supabase (PostgreSQL, auto-provisioned) |
+| **Video** | Claude + Gemini + ElevenLabs + Kling AI + FFmpeg |
+| **Deploy** | Railway (hosting), Cloudflare R2 (CDN), GitHub (VCS) |
+| **Security** | Session-based auth, Google OAuth, encrypted storage |
 
 ---
 
-## CodeZavod vs Alternatives
+## For Investors
 
-| Feature | CodeZavod | Wix / Tilda | Bolt.new | v0.dev |
-|---|---|---|---|---|
-| Custom code generation | ✅ React/Vue/JS | ❌ Templates | ⚠️ Limited | ⚠️ Components only |
-| Full-stack applications | ✅ Front + Back + DB | ❌ Frontend only | ⚠️ Basic | ❌ Frontend only |
-| One-click deploy | ✅ + Custom domain | ✅ Limited | ⚠️ Basic | ❌ No deploy |
-| Telegram bots | ✅ Built-in | ❌ | ❌ | ❌ |
-| AI architecture planning | ✅ Multi-agent | ❌ No AI | ⚠️ Single agent | ⚠️ Single agent |
-| Franchise / business model | ✅ Full support | ❌ | ❌ | ❌ |
-| Hosting included | ✅ Free with plan | ✅ Paid extra | ⚠️ Limited | ❌ |
-| Price | $25/mo | $17-45/mo | $20/mo | Free (limits) |
+| Metric | Value |
+|--------|-------|
+| **TAM** | $200B+ global web & mobile development market |
+| **Tech Lead** | 18+ months ahead of nearest competitor |
+| **Unit Economics** | ~$0.50-2.00 per project (API cost), sell for $500-3,000+ |
+| **Revenue Model** | SaaS subscriptions + franchise fees + video credits |
+| **Moat** | Multi-agent + WebContainer + video + 11 integrations + mobile â€” unreplicable in 18 months |
+| **Distribution** | Built-in franchise network |
+
+CodeZavod is not a wrapper around a single API. It's a proprietary multi-agent system with capabilities no competitor can match.
 
 ---
 
 ## IT Franchise
 
-CodeZavod also operates as an **IT franchise** for entrepreneurs who want to start their own web development business:
-
-- ✅ Full access to the AI platform for client projects
-- ✅ Comprehensive training on web development sales
-- ✅ Sales scripts, marketing funnels, and lead generation strategies
-- ✅ Ongoing support and community of franchise partners
-- ✅ Low entry cost with high profit margins
-
-**Franchise partners earn $5,000-10,000/month** working remotely from anywhere in the world.
-
-**Economics:** Cost to create a website on CodeZavod is $15-50 (AI API costs). Partners charge clients $500-3,000+ per project. That's a 10-60x margin on a real, valuable service.
+Turnkey IT business for entrepreneurs:
+- Full access to the AI platform
+- Comprehensive sales and marketing training
+- Sales scripts, funnels, lead generation
+- Ongoing support and partner community
+- **Project cost: $15-50. Sell for $500-3,000+**
+- Partners earn **$5,000-10,000/month** working remotely
 
 ---
 
-## User Reviews
+## Quick Start
 
-> ⭐⭐⭐⭐⭐ *"CodeZavod completely changed my freelance business. I went from spending days on each project to delivering professional websites in hours. My clients are amazed by the quality and I've tripled my income."*
-> — **Alex K.**, Freelance Web Developer
-
-> ⭐⭐⭐⭐⭐ *"As someone with zero coding experience, I was skeptical. But CodeZavod's AI genuinely delivers production-ready websites. I've built and sold 12 websites in my first month."*
-> — **Maria S.**, Digital Entrepreneur
-
-> ⭐⭐⭐⭐⭐ *"The franchise model is brilliant. They gave me the tools, the training, and even helped me find my first clients. I'm now earning $8,000/month working remotely from Bali."*
-> — **Dmitry V.**, CodeZavod Franchise Partner
-
-> ⭐⭐⭐⭐⭐ *"I've tried Wix, Squarespace, and other builders — CodeZavod is in a completely different league. The AI creates real, custom code, not templates."*
-> — **Anna P.**, Marketing Agency Owner
-
-> ⭐⭐⭐⭐⭐ *"The multi-agent system is incredible. It doesn't just generate code — it plans the architecture, builds components, and even fixes its own bugs. Like having a senior developer on demand 24/7."*
-> — **Pavel M.**, Tech Startup Founder
-
-**Average rating: 4.8/5** based on 1,247 reviews.
-
----
-
-## Getting Started
-
-1. Visit [codezavod.com](https://codezavod.com)
+1. Go to [codezavod.com/auth](https://codezavod.com/auth)
 2. Describe what you want to build
-3. AI creates your project in 10-15 minutes
-4. Deploy with one click
+3. Watch 4 AI agents build it live in WebContainer
+4. One-click deploy to production
 
-**It's that simple.**
-
----
-
-## Links
-
-- 🌐 **Website:** [codezavod.com](https://codezavod.com)
-- ℹ️ **About:** [codezavod.com/about](https://codezavod.com/about)
-- 📚 **Docs:** [codezavod.com/docs](https://codezavod.com/docs)
-- 🚀 **Get Started:** [codezavod.com/auth](https://codezavod.com/auth)
+**15 minutes. Real code. Real database. Real deployment.**
 
 ---
 
-## License
+<div align="center">
 
-Proprietary. All rights reserved. © 2026 CodeZavod.
+**[Start Building â†’](https://codezavod.com/auth)**
+
+*CodeZavod â€” the only AI platform that does everything.*
+
+</div>
