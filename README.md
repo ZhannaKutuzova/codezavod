@@ -1,25 +1,25 @@
-<div align="center">
+﻿<div align="center">
 
-# CodeZavod -- The Only AI Platform That Does Everything
+# Anunnak -- The Only AI Platform That Does Everything
 
 ### Websites | Mobile Apps | Telegram Bots | AI Video | 11 Integrations | Real Database
 
-[![Website](https://img.shields.io/badge/Website-codezavod.com-orange?style=for-the-badge)](https://codezavod.com)
-[![Rating](https://img.shields.io/badge/Rating-4.8%2F5-gold?style=for-the-badge)](https://codezavod.com)
-[![Price](https://img.shields.io/badge/Price-$25%2Fmo-brightgreen?style=for-the-badge)](https://codezavod.com/auth)
+[![Website](https://img.shields.io/badge/Website-Anunnak.com-orange?style=for-the-badge)](https://Anunnak.com)
+[![Rating](https://img.shields.io/badge/Rating-4.8%2F5-gold?style=for-the-badge)](https://Anunnak.com)
+[![Price](https://img.shields.io/badge/Price-$25%2Fmo-brightgreen?style=for-the-badge)](https://Anunnak.com/auth)
 
 **The most feature-rich AI development platform on the market.**
-No competitor -- not Bolt.new, not v0.dev, not Lovable, not Replit -- offers even half of what CodeZavod can do.
+No competitor -- not Bolt.new, not v0.dev, not Lovable, not Replit -- offers even half of what Anunnak can do.
 
-[Start Free](https://codezavod.com/auth) | [About Platform](https://codezavod.com/about) | [Telegram](https://t.me/codezavod_official)
+[Start Free](https://Anunnak.com/auth) | [About Platform](https://Anunnak.com/about) | [Telegram](https://t.me/Anunnak_official)
 
 </div>
 
 ---
 
-## Why CodeZavod Destroys Every Competitor
+## Why Anunnak Destroys Every Competitor
 
-| Capability | CodeZavod | Bolt.new | v0.dev | Lovable | Replit | Wix/Tilda |
+| Capability | Anunnak | Bolt.new | v0.dev | Lovable | Replit | Wix/Tilda |
 |-----------|-----------|----------|--------|---------|--------|-----------|
 | **Multi-agent AI** | YES 4 agents | NO 1 agent | NO 1 agent | NO 1 agent | NO 1 agent | NO No AI |
 | **WebContainer (Node.js in browser)** | YES Full + HMR | Partial Basic | NO | Partial Basic | YES | NO |
@@ -34,7 +34,7 @@ No competitor -- not Bolt.new, not v0.dev, not Lovable, not Replit -- offers eve
 | **One-click deploy** | YES Railway+domain+SSL | Partial Basic | NO | YES | YES | YES |
 | **IT Franchise** | YES Full support | NO | NO | NO | NO | NO |
 
-**Count the YES marks.** CodeZavod: 12. Nearest competitor: 3-4.
+**Count the YES marks.** Anunnak: 12. Nearest competitor: 3-4.
 
 ---
 
@@ -48,7 +48,7 @@ Full **Node.js environment running in the browser** via WebContainer API. Not an
 - Changes appear instantly
 
 ### 4 AI Agents (Not 1)
-While every competitor uses a single AI agent, CodeZavod runs a **multi-agent pipeline**:
+While every competitor uses a single AI agent, Anunnak runs a **multi-agent pipeline**:
 
 ```
 User prompt -> Router -> Architect -> Builder -> Mr Fixer -> Deployed site
@@ -70,7 +70,7 @@ Powered by **Anthropic Claude** (architecture + code) and **OpenAI** (analysis +
 - Deploy to **App Store** and **Google Play** via EAS
 - Custom tab bars, state-based navigation, native components
 
-Bolt.new can't. v0.dev can't. Lovable can't. **Only CodeZavod.**
+Bolt.new can't. v0.dev can't. Lovable can't. **Only Anunnak.**
 
 ### Real Database in Preview
 When AI generates a project with a database (CRM, dashboard, e-commerce):
@@ -176,7 +176,7 @@ React + **Konva** for browser-based games:
 | **Moat** | Multi-agent + WebContainer + video + 11 integrations + mobile -- unreplicable in 18 months |
 | **Distribution** | Built-in franchise network |
 
-CodeZavod is not a wrapper around a single API. It is a proprietary multi-agent system with capabilities no competitor can match.
+Anunnak is not a wrapper around a single API. It is a proprietary multi-agent system with capabilities no competitor can match.
 
 ---
 
@@ -193,7 +193,7 @@ Turnkey IT business for entrepreneurs:
 
 ## Quick Start
 
-1. Go to [codezavod.com/auth](https://codezavod.com/auth)
+1. Go to [Anunnak.com/auth](https://Anunnak.com/auth)
 2. Describe what you want to build
 3. Watch 4 AI agents build it live in WebContainer
 4. One-click deploy to production
@@ -204,8 +204,9 @@ Turnkey IT business for entrepreneurs:
 
 <div align="center">
 
-**[Start Building](https://codezavod.com/auth)**
+**[Start Building](https://Anunnak.com/auth)**
 
-*CodeZavod -- the only AI platform that does everything.*
+*Anunnak -- the only AI platform that does everything.*
 
 </div>
+
